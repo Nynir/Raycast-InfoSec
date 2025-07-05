@@ -30,6 +30,8 @@ Quick access to popular threat intelligence and analysis platforms:
 - `Spur Lookup` - Looks up selection on Spur
 - `VirusTotal Lookup` - Looks up selection on VirusTotal
 
+*Note about compatibilty on Windows: I have experienced issues with the percent encoding arguement on Windows Raycast beta*
+
 ### 📝 [Snippets](https://github.com/Nynir/Raycast-InfoSec/tree/main/Snippets)
 Collection of useful text snippets for InfoSec workflows.
 - `Response to technical issue` - Allows you to quickly respond to the technical issues of users or peers

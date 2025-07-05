@@ -1,0 +1,6 @@
+[
+  {
+    "link" : "https://www.joesandbox.com/analysis/search?q={selection | percent-encode}",
+    "name" : "Joe Sandbox Lookup"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "link" : "https://app.spur.us/search?q={selection | percent-encode}",
+    "name" : "Spur Lookup"
+  }
+]

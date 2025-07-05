@@ -1,0 +1,6 @@
+[
+  {
+    "link" : "https://www.virustotal.com/gui/search/{selection | percent-encode}",
+    "name" : "VirusTotal Lookup"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "link" : "https://whois.domaintools.com/{selection | percent-encode}",
+    "name" : "DomainTools WHOIS Lookup"
+  }
+]

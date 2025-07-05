@@ -1,0 +1,6 @@
+[
+  {
+    "name" : "Response to technical issue",
+    "text" : "{argument name=\"technical issue response\" options=\"Works on my machine, Have you tried turning it off an on again?, Skill issue\" default=\"Works on my machine\"}"
+  }
+]

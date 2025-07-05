@@ -1,0 +1,10 @@
+[
+  {
+    "creativity" : "medium",
+    "highlightEdits" : false,
+    "icon" : "bug",
+    "model" : "perplexity-sonar-pro",
+    "prompt" : "Provide the information below related to the hacker group: {argument name=\"APT\"}\n\nOrigin Country:\nMotivation:\nMost targeted industry vertical:\n\nTypical TTPs:\n- Initial Access Method (I.e. phishing, social engineering, etc.)\n- Most Common Point of Entry (Malware driveby, account hijack, etc.)\n\nRecommended means of prevention (provide 2-3 bullet points)\n\nRecommended means of detection (provide 2-3 bullet points)",
+    "title" : "APT Factsheet"
+  }
+]

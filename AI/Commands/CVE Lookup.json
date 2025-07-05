@@ -1,0 +1,10 @@
+[
+  {
+    "creativity" : "medium",
+    "highlightEdits" : false,
+    "icon" : "bulls-eye",
+    "model" : "perplexity-sonar-pro",
+    "prompt" : "Look up CVE {argument name=\"CVE\"}. Summarize:\n- CVSS score and severity\n- The CVE overall\n- What and what versions are affected\n- Whether successful exploitation requires prior compromise or authentication\n- Indicators to look for in logs that suggest exploit attempts or prior compromise.”",
+    "title" : "CVE Lookup"
+  }
+]

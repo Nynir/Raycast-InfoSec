@@ -1,0 +1,6 @@
+[
+  {
+    "link" : "https://otx.alienvault.com/browse/global/pulses?q={selection | percent-encode}",
+    "name" : "AlienVault Lookup"
+  }
+]

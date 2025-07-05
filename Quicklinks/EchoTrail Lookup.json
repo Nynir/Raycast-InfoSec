@@ -1,0 +1,6 @@
+[
+  {
+    "link" : "https://www.echotrail.io/insights/search/{selection | percent-encode}",
+    "name" : "EchoTrail Lookup"
+  }
+]

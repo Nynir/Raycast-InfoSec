@@ -1,0 +1,6 @@
+[
+  {
+    "link" : "https://hybrid-analysis.com/search?query={selection | percent-encode}",
+    "name" : "Hybrid Analysis Lookup"
+  }
+]

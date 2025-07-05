@@ -1,0 +1,7 @@
+[
+  {
+    "iconName" : "magnifying-glass-16",
+    "link" : "https://www.shodan.io/host/{selection | percent-encode}",
+    "name" : "Shodan Host Lookup"
+  }
+]
